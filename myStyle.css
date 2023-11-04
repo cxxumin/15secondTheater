@@ -266,7 +266,7 @@ body{
     width: 2.5vw;
     height: 4vw;
     background-color: #424242;
-    box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 1vw 0.5vw rgba(255, 255, 255, 0.3);
     position: absolute;
     z-index: 1;
     top: 1.5vw;
@@ -293,7 +293,7 @@ body{
     width: 2.5vw;
     height: 4vw;
     background-color: #424242;
-    box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 1vw 0.5vw rgba(255, 255, 255, 0.3);
     position: absolute;
     z-index: 1;
     top: 1.5vw;
@@ -320,7 +320,7 @@ body{
     width: 3.1vw;
     height: 5vw;
     background-color: #424242;
-    box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 1vw 0.5vw rgba(255, 255, 255, 0.3);
     position: absolute;
     z-index: 3;
     top: 7vw;
@@ -347,7 +347,7 @@ body{
     width: 3.1vw;
     height: 5vw;
     background-color: #424242;
-    box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 1vw 0.5vw rgba(255, 255, 255, 0.3);
     position: absolute;
     z-index: 3;
     top: 7vw;
@@ -375,7 +375,7 @@ body{
     width: 3.1vw;
     height: 5vw;
     background-color: #424242;
-    box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 1vw 0.5vw rgba(255, 255, 255, 0.3);
     position: absolute;
     z-index: 3;
     top: 7vw;
@@ -402,7 +402,7 @@ body{
     width: 3.1vw;
     height: 5vw;
     background-color: #424242;
-    box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 1vw 0.5vw rgba(255, 255, 255, 0.3);
     position: absolute;
     z-index: 3;
     top: 7vw;
@@ -429,7 +429,7 @@ body{
     width: 3.1vw;
     height: 5vw;
     background-color: #424242;
-    box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 1vw 0.5vw rgba(255, 255, 255, 0.3);
     position: absolute;
     z-index: 3;
     top: 7vw;
@@ -456,7 +456,7 @@ body{
     width: 3.1vw;
     height: 5vw;
     background-color: #424242;
-    box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 1vw 0.5vw rgba(255, 255, 255, 0.3);
     position: absolute;
     z-index: 3;
     top: 7vw;
@@ -483,7 +483,7 @@ body{
     width: 5vw;
     height: 8.5vw;
     background-color: #424242;
-    box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 1vw 0.5vw rgba(255, 255, 255, 0.3);
     position: absolute;
     z-index: 6;
     top: 14vw;
@@ -511,7 +511,7 @@ body{
     width: 5vw;
     height: 8.5vw;
     background-color: #424242;
-    box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 1vw 0.5vw rgba(255, 255, 255, 0.3);
     position: absolute;
     z-index: 6;
     top: 14vw;
@@ -538,7 +538,7 @@ body{
     width: 5vw;
     height: 8.5vw;
     background-color: #424242;
-    box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 1vw 0.5vw rgba(255, 255, 255, 0.3);
     position: absolute;
     z-index: 6;
     top: 14vw;
@@ -565,7 +565,7 @@ body{
     width: 14vw;
     height: 24vw;
     background-color: #424242;
-    box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 1vw 0.5vw rgba(255, 255, 255, 0.3);
     position: absolute;
     z-index: 9;
     top: 25vw;
@@ -592,7 +592,7 @@ body{
     width: 14vw;
     height: 24vw;
     background-color: #424242;
-    box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 1vw 0.5vw rgba(255, 255, 255, 0.3);
     position: absolute;
     z-index: 9;
     top: 25vw;
@@ -619,7 +619,7 @@ body{
     width: 14vw;
     height: 24vw;
     background-color: #424242;
-    box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 1vw 0.5vw rgba(255, 255, 255, 0.3);
     position: absolute;
     z-index: 9;
     top: 25vw;
@@ -646,7 +646,7 @@ body{
     width: 14vw;
     height: 24vw;
     background-color: #424242;
-    box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 1vw 0.5vw rgba(255, 255, 255, 0.3);
     position: absolute;
     z-index: 9;
     top: 25vw;
@@ -673,7 +673,7 @@ body{
     width: 23vw;
     height: 40vw;
     background-color: #424242;
-    box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 1vw 0.5vw rgba(255, 255, 255, 0.3);
     position: absolute;
     z-index: 12;
     top: 35vw;
@@ -700,7 +700,7 @@ body{
     width: 23vw;
     height: 40vw;
     background-color: #424242;
-    box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 1vw 0.5vw rgba(255, 255, 255, 0.3);
     position: absolute;
     z-index: 12;
     top: 40vw;
@@ -727,7 +727,7 @@ body{
     width: 23vw;
     height: 40vw;
     background-color: #424242;
-    box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 1vw 0.5vw rgba(255, 255, 255, 0.3);
     position: absolute;
     z-index: 12;
     top: 40vw;
@@ -754,7 +754,7 @@ body{
     width: 23vw;
     height: 40vw;
     background-color: #424242;
-    box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.3);
+    box-shadow: 0 0 1vw 0.5vw rgba(255, 255, 255, 0.3);
     position: absolute;
     z-index: 12;
     top: 35vw;
@@ -789,45 +789,16 @@ body{
     justify-content: center;
 }
 
-.text_300{
-    font-family: 'Noto Sans KR', sans-serif;
-    font-weight: 300;
-    color: white;
-}
-
 .text_500{
     font-family: 'Noto Sans KR', sans-serif;
     font-weight: 500;
     color: white;
 }
 
-.text_700{
-    font-family: 'Noto Sans KR', sans-serif;
-    font-weight: 700;
-    color: white;
- 
-  
-}
 
 
 .text-size-30{
-    font-size: 3rem;
-}
-
-.text-size-25{
-    font-size: 2.5rem;
-}
-
-.text-size-20{
-    font-size: 2rem;
-}
-
-.text-size-16{
-    font-size: 1.6rem;
-}
-
-.text-size-13{
-    font-size: 1.3rem;
+    font-size: 2vw;
 }
 
 .text-align-center{
@@ -836,10 +807,6 @@ body{
 
 .text-align-left{
     text-align:left
-}
-
-.text-spacing {
-    letter-spacing: 0.15rem;
 }
 
 .text-margin{
